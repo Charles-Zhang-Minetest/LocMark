@@ -8,7 +8,7 @@ Author: Charles Zhang
 local storage = minetest.get_mod_storage()
 
 local function PrintHelp()
-  print([[
+  print([[Location bookmark management utility:
 /lc: print this help message;
 /lc all: print all named locations;
 /lc add <name> (<description>): add/update a new named location;
